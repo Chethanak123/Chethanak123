@@ -5,7 +5,7 @@
   
 - 🎯 Skills
   
-👩‍⚕️Health Informatics: Electronic Health Records (EHR), Health Information Exchange (HIE), Clinical Decision Support Systems. Information Governance and Risk Management.
+👩‍⚕️Health Informatics: Electronic Health Records (EHR), Health Information Exchange (HIE), Clinical Decision Support Systems, Information Governance and Risk Management.
 💻​Programming Languages: Python, SQL, MS Office, Tableau, Power BI.
 📈​Data Visualization: ggplot2, Matplotlib, Plotly.
 🤖🧠Machine Learning: Classification, Regression, Clustering.
